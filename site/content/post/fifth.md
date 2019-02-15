@@ -1,6 +1,6 @@
 ---
 date: 2019-02-23T10:24:16-04:00
-title: Fourletters to docter bentley reveiw
+title: What are Morphemes?
 ---
 ```
  Eleazar Allen | english | 2-13-19
