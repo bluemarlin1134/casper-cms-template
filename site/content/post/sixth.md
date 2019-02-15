@@ -5,9 +5,10 @@ title: Who Were the Caribs?
 
 #### This is a project I did about a year ago... Nuff said.
 
-##### It is actually an outline of a book report that I did which you can find [here](https://lazarmarlin.tk/thepeoplewhocame)
+##### It is actually an outline of a book report.
 
 ***
+# An outline on the Caribs.
 
 | Who | What | When | Where | Why | How |
 | --- | --- | --- | --- | --- | --- |
