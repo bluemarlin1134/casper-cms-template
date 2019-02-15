@@ -22,7 +22,7 @@ menu: "main"
 ---
 #### [Noun Type Sentences](/post/nounsen/)
 ---
-#### [What do I think of myself?](/selfevalution/)
+#### [What do I think of myself?](/post/selfevalution/)
 ---
 #### [Roots! Part 1](/post/part1/)
 ---
