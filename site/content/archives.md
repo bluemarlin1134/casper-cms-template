@@ -1,9 +1,9 @@
-+++
-date = "2016-09-09T10:15:23-04:00"
-draft = false
-title = "about"
-
-+++
+---
+date: "2016-09-09T10:15:23-04:00"
+draft: false
+title: "about"
+menu: "main"
+---
 
 [Our Silicon Youth](/post/third/)
 [Outline to The People Who Came book report]()
