@@ -1,4 +1,4 @@
-baseurl = "https://lazarmarlin.gq"
+baseurl = "/"
 languageCode = "en-us"
 title = "Lazar!!"
 theme = "hugo-theme-casper"
@@ -21,10 +21,10 @@ canonifyurls = true
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..."
   githubName = "Bluemarlin1134"
-  #twitterName = "vjeantet"
+  twitterName = "vjeantet"
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = true
+  hideHUGOSupport = false
   [params.social]
     twitter = "your_twitter"
