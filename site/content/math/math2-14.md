@@ -1,4 +1,4 @@
-# [Home](https://www.lazarmarlin.tk) | [English](/english) | [Essays](/essays) | [Fun](/fun) | [Free books!](/freebooks)
+
 
 ## Math Homework from Khan Academy
 ##### Okay, lets get this party started!
