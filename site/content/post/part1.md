@@ -6,18 +6,13 @@ Eleazar Allen    english     2-13-19
 ```
 ***
 
-## Root words
-
-### Part one of root words
-
 ### [Part 2](/post/part2)
 
 ### [Part 3](/post/part3)
 
 #### cred
 
----
-title: Root words! (part 1)
+
 * Latin for "to belive or trust"
   - credit
   - incredible
