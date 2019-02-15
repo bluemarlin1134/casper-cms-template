@@ -1,6 +1,6 @@
 ---
 date: 2016-09-09T10:24:16-04:00
-title: Four Letters to docter bentley reveiw
+title: Four Letters to Doctor Bentley reveiw
 ---
 ## A breakdown for letter one of “Four letters from Sir Isaac Newton to Doctor Bentley Containing Some Arguments in Proof of a Deity”.
 #### Okay, I did this one about a year ago as well. Admittedly, could of turned out better…
