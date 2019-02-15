@@ -2,11 +2,9 @@
 title: Roots! Part 3
 ---
 
-## Eleazar Allen | english | 2-13-19
 
 ***
 
-### To see:
 
 ### [Part 1](/post/part1)
 
