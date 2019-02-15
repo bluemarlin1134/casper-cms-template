@@ -5,4 +5,7 @@ title = "about"
 
 +++
 
-## This is where our page Markdown content lives.
+# Lazar marlin
+
+### This is my about page.
+For my homework
