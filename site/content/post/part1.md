@@ -1,9 +1,8 @@
 ---
 title: Roots! Part 1
 ---
-```
-Eleazar Allen    english     2-13-19
-```
+
+
 ***
 
 ### [Part 2](/post/part2)
