@@ -4,8 +4,4 @@ draft: false
 title: "about"
 menu: "main"
 ---
-
-[Our Silicon Youth](/post/third/)
-[Outline to The People Who Came book report]()
-[Something I wrote on four letters to Doctor Bentley from Issac Newton.](/post/third/)
-A essay on Old Scientists
+# This is my archives, here you can find all my old files.
