@@ -6,10 +6,6 @@ title: Roots! Part 3
 
 ***
 
-## Root words
-
-### Part three of root words
-
 ### To see:
 
 ### [Part 1](/post/part1)
