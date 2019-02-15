@@ -7,10 +7,6 @@ title: What do I think of myself?
 
 ***
 
-#### 2 Corinthians 13:5
-
-#### 1 Corinthians 11:28-32
-
 #### Lamentation 3:40
 
 * let us test and examine our ways
