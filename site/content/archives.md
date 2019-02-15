@@ -7,3 +7,4 @@ menu: "main"
 # This is my archives, here you can find all my old files.
 
 #### [My schedule](/scedy)
+#### [The People Who Came book report (outline)](/pwc)
