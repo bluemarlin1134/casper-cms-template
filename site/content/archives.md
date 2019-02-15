@@ -4,7 +4,7 @@ draft: false
 title: "Archives"
 menu: "main"
 ---
-# This is my archives, here you can find all my old files.
+# Old Stuff!
 
 #### [My schedule](/scedy)
 ---
