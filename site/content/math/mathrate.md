@@ -1,4 +1,4 @@
-# [Home](https://www.lazarmarlin.tk) | [English](/english) | [Essays](/essays) | [Fun](/fun) | [Free books!](/freebooks)
+
 ---
 [^1]: I am not sure if that is the exact number, but you get the idea! 
 ## Rate
