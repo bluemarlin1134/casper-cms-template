@@ -29,7 +29,7 @@ menu: "main"
  - [Eulalia!](/book/eulalia.epub)
  - [Doomwyte](/book/doomwyte.epub)	
  - [The Sable Quean	](/book/sablequeen.epub)
- - [The Rogue Crew](/book/therouguecrew.epub)
+ - [The Rogue Crew](/book/theroguecrew.epub)
  
 ### Mental Floss
  - [Mental Floss History of the United States](/book/mfus.epub) 
