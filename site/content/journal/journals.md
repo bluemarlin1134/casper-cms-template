@@ -8,3 +8,5 @@ menu: [ "main", "footer"]
 ##### As always, Newest one at the top.
 ---
 ### [My first entry!](/journal/myfirst/)
+---
+[My morning in Computer misery](/journal/feb17/)
