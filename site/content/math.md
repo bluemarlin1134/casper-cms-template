@@ -5,9 +5,9 @@ title: "Math"
 menu: "main"
 ---
 
-# My favorite subject...
+# My favorite subject... not.
 #### newest ones are at the top.
-
+---
 ### [math from february 14](/math/math2-14)
 ---
 
