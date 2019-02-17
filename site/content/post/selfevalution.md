@@ -1,4 +1,6 @@
 ---
+date: "2019-16-02T10:15:23-04:00"
+draft: false
 title: What do I think of myself?
 ---
 
