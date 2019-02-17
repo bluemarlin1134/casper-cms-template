@@ -1,6 +1,6 @@
 ---
 title: Journal entries
-menu: "main"
+menu: [ "main", "footer"]
 ---
 
 ### I decided to write a web journal, don't worry I won't put anything too personal in here.
