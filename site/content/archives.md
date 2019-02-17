@@ -30,4 +30,13 @@ menu: "main"
 ---
 #### [Roots! Part 3](/post/part3/)
 ---
+#### [Hebrew from February 14](/language/hebrew2-14/)
+---
+#### [Rates in math](/math/mathrate/)
+---
+#### [Math from february 14](/math/math2-14/)
+---
+#### [random Math Questions](/math/math1/)
+---
+#### [My first journal entry](/journal/myfirst/)
 ##### C'mon! You can grow!
