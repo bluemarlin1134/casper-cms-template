@@ -9,4 +9,4 @@ menu: [ "main", "footer"]
 ---
 ### [My first entry!](/journal/myfirst/)
 ---
-[My morning in Computer misery](/journal/feb17/)
+### [My morning in Computer misery](/journal/feb17/)
