@@ -1,5 +1,6 @@
 ---
-date: 2016-09-09T10:24:16-04:00
+date: "2019-16-02T10:15:23-04:00"
+draft: false
 title: Four Letters to Doctor Bentley reveiw
 ---
 ## A breakdown for letter one of “Four letters from Sir Isaac Newton to Doctor Bentley Containing Some Arguments in Proof of a Deity”.
