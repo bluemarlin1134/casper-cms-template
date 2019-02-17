@@ -39,4 +39,5 @@ menu: "main"
 #### [random Math Questions](/math/math1/)
 ---
 #### [My first journal entry](/journal/myfirst/)
+---
 ##### C'mon! You can grow!
