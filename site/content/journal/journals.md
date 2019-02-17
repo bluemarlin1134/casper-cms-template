@@ -7,4 +7,4 @@ menu: "main"
 ---
 ##### As always, Newest one at the top.
 
-### [m My first entry!](/journal/myfirst/)
+### [My first entry!](/journal/myfirst/)
