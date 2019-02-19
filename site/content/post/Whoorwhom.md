@@ -5,7 +5,7 @@ draft: false
 [^1]: I forgot to say, if you can answer with "he", then that works too.
 '
 ## Cases
----
+--- 
 Nominative case (subjective case)
   - I, you, he, she, we, they
 ---
