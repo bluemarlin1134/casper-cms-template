@@ -14,12 +14,11 @@ draft: false
 
 ###### me, you, him, her, us, them
 ---
-Who and Whom
 
 > Case is an attribute
 
 ---
-#### How to tell if you should use who and whom:
+#### How to tell if you should use who or whom:
 ***
 
 ##### Who
