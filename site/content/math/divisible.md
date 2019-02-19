@@ -40,7 +40,7 @@ draft: false
     - is divisible by both 2 and 3
 ---
 
-> Sorry, the teacher did'nt explain how to tell if something is divisible by 7... probably o hard for our feeble minds... *laugh*
+> Sorry, the teacher did'nt explain how to tell if something is divisible by 7... probably too hard for our feeble minds... *laugh*
 
 #### 8
   - has to be divisible by both 2 and 4
