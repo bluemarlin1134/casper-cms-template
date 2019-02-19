@@ -17,13 +17,13 @@ draft: false
 Who and Whom
 
 > case is an attribute
->
+
 ---
 #### How to tell if you should use who and whom
 
 ##### Who
 
-###### Nomanative case 
+###### Nominative case 
 do you have a subject
 if you have a subject, then use "who".
 
