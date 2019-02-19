@@ -7,13 +7,17 @@ draft: false
 ## Cases
 --- 
 ##### Nominative case (subjective case)
-I, you, he, she, we, they
+
+###### I, you, he, she, we, they
 ---
 ##### Accusative (objective case)
-me, you, him, her, us, them
+
+###### me, you, him, her, us, them
 ---
-> Who and Whom
+Who and Whom
+
 > case is an attribute
+>
 ---
 #### How to tell if you should use who and whom
 
