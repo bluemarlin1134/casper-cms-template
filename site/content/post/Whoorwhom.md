@@ -16,25 +16,25 @@ draft: false
 ---
 Who and Whom
 
-> case is an attribute
+> Case is an attribute
 
 ---
 #### How to tell if you should use who and whom:
 ***
 
 ##### Who
-is in the Nominative case 
+Is in the Nominative case 
 
-do you have a subject?
+Do you have a subject?
 
-if you have a subject, then use "who".
+If you have a subject, then use "who".
 
 ##### Whom
-is in the Accusative case 
+Is in the Accusative case 
 
-is it acting as an object?
+Is it acting as an object?
 
-if you have an object, use "whom".
+If you have an object, use "whom".
 
 ---
 > This is a very easy way to check as well.
@@ -43,13 +43,13 @@ if you have an object, use "whom".
 
 If you can put a "him" in the sentence that sorta makes sense, use "whom".
 ie. Whom did we invite?
-who did the inviting?
-him did the inviting.
+Who did the inviting?
+Him did the inviting.
 
 ##### Who
 
 If you can put "he" in the sentence use "who"
 ie. Who are you?
-you can answer with, "I am he". [^1]
+You can answer with, "I am he". [^1]
 
 ###### That's all for today!
