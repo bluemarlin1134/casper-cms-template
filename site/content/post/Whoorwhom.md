@@ -19,15 +19,16 @@ Who and Whom
 > case is an attribute
 
 ---
-#### How to tell if you should use who and whom
+#### How to tell if you should use who and whom:
+***
 
 ##### Who
-
-###### Nominative case 
+is in the Nominative case 
 do you have a subject
 if you have a subject, then use "who".
 
-###### Accusative case 
+##### Whom
+is in the Accusative case 
 acting as an object
 if you have an object, use "whom".
 
