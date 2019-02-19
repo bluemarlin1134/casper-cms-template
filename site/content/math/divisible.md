@@ -35,5 +35,29 @@ draft: false
 ---
  
 #### 6
-  - the number
-    
+  - the number has to be divisible by both 2 and 3
+  - 2,799,588
+    - is divisible by both 2 and 3
+---
+
+> Sorry, the teacher did'nt explain how to tell if something is divisible by 7... probably o hard for our feeble minds... *laugh*
+
+#### 8
+  - has to be divisible by both 2 and 4
+  - 2,799,588
+    - is divisible by both 2 and 4
+---
+
+#### 9
+  - See three
+  - 2.799.588
+    - not divisible by 9
+
+#### 10
+  - does it end in zero???
+  - 2,799,588
+    - does not end in zero
+      -  Is not divisible by 10
+---
+
+
