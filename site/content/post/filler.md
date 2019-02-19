@@ -12,7 +12,7 @@ draft: False
   - Try talking (to yourself) a little louder. If you do this you can be able to catch your filler words, and get rid of them.
 
 #### Instead of saying a filler word, say "pause", or "period". 
-  - "Im going to wash the car, perriod." 
+  - "Im going to wash the car, period." 
   - Not only will this be real embrassing, if you do this with a bunch of people, you will catch your filler words and get rid of them.
 
 #### Take a breath. You can't talk without air ya' know! 
