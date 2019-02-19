@@ -24,12 +24,16 @@ Who and Whom
 
 ##### Who
 is in the Nominative case 
-do you have a subject
+
+do you have a subject?
+
 if you have a subject, then use "who".
 
 ##### Whom
 is in the Accusative case 
-acting as an object
+
+is it acting as an object?
+
 if you have an object, use "whom".
 
 ---
