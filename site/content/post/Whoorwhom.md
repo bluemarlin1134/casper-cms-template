@@ -6,38 +6,38 @@ draft: false
 '
 ## Cases
 ---
-### Nominative case (subjective case)
-- I, you, he, she, we, they
+Nominative case (subjective case)
+  - I, you, he, she, we, they
 ---
-### Accusative (objective case)
-- me, you, him, her, us, them
+Accusative (objective case)
+  - me, you, him, her, us, them
 ---
-## Who and Whom
-- case is an attribute
+Who and Whom
+  - case is an attribute
 ---
 #### How to tell if you should use who and whom
 ---.
-There are two alternitave ways to check as well, which I think is a little easier.
+> There are two alternitave ways to check as well, which I think is a little easier.
 
 ##### Who
-Nomanative case = 
-- do you have a subject
-- if you have a subject, then use "who".
+Nomanative case 
+  - do you have a subject
+  - if you have a subject, then use "who".
 
 Accusative case = 
-- acting as an object
-- if you have an object, use "whom".
+  - acting as an object
+  - if you have an object, use "whom".
 
 ---
 ##### Whom
 
 If you can put a "him" in the sentence that sorta makes sense, use "whom".
-- ie. Whom did we invite?
-  - who did the inviting?
-  - him did the inviting.
+  - ie. Whom did we invite?
+    - who did the inviting?
+    - him did the inviting.
 
 If you can put "he" in the sentence use "who"
-- ie. Who are you?
-- you can answer with, "I am he". [^1]
+  - ie. Who are you?
+    - you can answer with, "I am he". [^1]
 
 ###### That's all for today!
