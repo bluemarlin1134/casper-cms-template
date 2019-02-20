@@ -10,3 +10,6 @@ menu: [ "main", "footer"]
 ### [My first entry!](/journal/myfirst/)
 ---
 ### [My morning in Computer misery](/journal/feb17/)
+---
+### [I made an app!](/journal/apps!)
+---
