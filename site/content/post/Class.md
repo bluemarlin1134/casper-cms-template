@@ -1,7 +1,7 @@
 ---
 title: Types of Invertebrates
 ---
-## Inverebrates
+
 ### Cnidarians
 - always live in the water
 - tend to have soft bodies
