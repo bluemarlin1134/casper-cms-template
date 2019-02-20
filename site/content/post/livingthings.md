@@ -1,3 +1,6 @@
+---
+title: What is a living thing?
+---
 ## What do living things have in common?
 > There are two main classes of living things. Plants, and Animals.
 
