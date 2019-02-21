@@ -21,11 +21,11 @@ After doing some searching around, yes I know, on Google, for how to uninstall d
 Then I came up with a genius plan. 😆 I'll just disable it! So I run on over to my settings, and hit disable on google, google chrome, I even go and hit disable on Youtube!
 
 Few minutes later, I'm back trying to figure out how to get on any websites now... cuz I realized it's kinda impossible to get on the internet and veiw any websites... hmm...🤔, then I was like, 😲, then, 😳, then 😖, to,🙃, then to 😁, finally 😂! "I'm gonna make an app! No, multiple apps, with all my favorite websites on them so I won't have to use a browser, but will still be able to use the website!" **GENIUS MOMENT**.
-#
+# .
 ME: "Oh, hi Reality, what are you doing here?"
-#
+# .
 👤 (Reality): "I'm here to remind you that you barely know how to make an app, and you definetly don't know how to turn a website into one."
-#
+# .
 ME: "Oh, yeah.." --*crickets in background*-- 
 
 Back to google we go!
