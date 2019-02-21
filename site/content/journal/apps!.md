@@ -1,7 +1,7 @@
 ---
 title: I made an app!*
 ---
-[^1]: We made a be to see If i could not use google on this computer. He won five dollars. But I managed to hold off for 2 months!
+[^1]: We made a bet to see If i could not use google on this computer. He won five dollars. But I managed to hold off for 2 months!
 ##### *Actually several
 ---
 #
