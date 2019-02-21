@@ -4,13 +4,13 @@ title: I made an app!*
 [^1]: We made a bet to see If i could not use google on this computer. He won five dollars. But I managed to hold off for 2 months!
 ##### *Actually several
 ---
-#
+# .
 So, I was sitting in my chair today, thinking how I got gipped off by using android as my main os. 
-#
+# .
 1. I had no markdown editor that I really liked.
-#
+# .
 2. I had no coding editor that I really liked.
-#
+# .
 3. I lost a bunch of money to the 👹 By having to use google while on this computer.[^1]
 
 So I'm sitting there, and I'm like, "This time I WILL hold off longer!"
