@@ -10,12 +10,12 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "A website for my homework, fun, and my favorite things."
+  description = "A website for my freind, who lives so far away the mail takes half a year to reach her."
   cover = "images/cover.jpg"
   author = "Lazar Marlin "
   authorlocation = "Freeport Grand Bahama"
   authorwebsite = "https://lazarmarlin.gq"
-  bio= "Hi, I'm a progammer/hacker, who is homeschooled, and has so much homework, he built a website for it all."
+  bio= "Hi, you don't remember me?"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
