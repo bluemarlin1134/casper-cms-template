@@ -1,5 +1,5 @@
 ---
-title: Flowers! 
+title: 🌺 Flowers! 
 ---
 Flowers only have **a single** purpose. **REPRODUTION!** 
 
