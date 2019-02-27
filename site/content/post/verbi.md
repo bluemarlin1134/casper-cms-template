@@ -22,4 +22,4 @@ title: More Verbs...
 
 ### Verb phrases
 - When verbs consist or more that one word and has more than one helping verb behind it
-- ex: The nation will institute a new law
+- ex: The nation will institute a new law.
