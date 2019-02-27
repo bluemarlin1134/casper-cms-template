@@ -1,5 +1,5 @@
 ---
-title: Bilology 🤪
+title: Biology 🤪
 ---
 
 ### Biological organzations
