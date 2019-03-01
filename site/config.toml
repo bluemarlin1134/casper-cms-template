@@ -15,6 +15,7 @@ canonifyurls = true
   author = "Lazar Marlin "
   authorlocation = "Freeport Grand Bahama"
   authorwebsite = "https://lazarmarlin.gq"
+  authoremail = "bluemarlin1134@vivaldi.net"
   bio= "Hi, I'm a progammer/hacker, who is homeschooled, and has so much homework, he built a website for it all."
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
