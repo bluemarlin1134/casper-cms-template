@@ -27,6 +27,6 @@ Now he tried, and I'll give him points on that, but he didn't do it. Now you may
 
 On the other hand, I knew this other boy. Now he was the most humble, low to earth, error admitting, friendship needing person that ever walked the earth. And I find he was a bit too... I don't know what to call it. But somethimes it made me really sorry that he didn't know... Oh I don't know... maybe **HOW TO PLAY LEGOS!!!** 
 
-Unless you live in a hole, you must know how o play legos! It should be taught in schools! Children should have to take test on how to play legos! It should be **manditory!!** 😠
+Unless you live in a hole, you must know how to play legos! It should be taught in schools! Children should have to take test on how to play legos! It should be **manditory!!** 😠
 
 Okay, that's all Im gonna write for this part, I'll put the rest of "A" up later.
