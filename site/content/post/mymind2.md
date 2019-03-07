@@ -16,4 +16,4 @@ When we were young[^heh] Dad would pick words out of the Bible, and if we didn't
 
 Here is something funny. 😂
 
-Dad as a project, had us realy the play Julius Ceaser written by Shakespere every morning. As you know it has alot of old english words in it like: "Thee", "thou", "hither", etc. Anyway, we did it for such a long time ⏳, that we started using it (more as a joke really) in our daily language... needless to stay, it got stuck. 😒 And now it's not uncommon to here me say. 🤠 "What art thou doing Moshe, praytell?" and stuff like that. Well, I think I shall derail enough, and move on to the [next letter](post/b/)
+Dad as a project, had us realy the play Julius Ceaser written by Shakespere every morning. As you know it has alot of old english words in it like: "Thee", "thou", "hither", etc. Anyway, we did it for such a long time ⏳, that we started using it (more as a joke really) in our daily language... needless to stay, it got stuck. 😒 And now it's not uncommon to here me say. 🤠 "What art thou doing Moshe, praytell?" and stuff like that. Well, I think I shall derail enough, and move on to the [next letter](/post/b/)
