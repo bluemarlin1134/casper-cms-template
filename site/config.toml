@@ -50,8 +50,8 @@ canonifyurls = true
    identifier = "travel"
    url = "https://travel.lazarmarlin.tk"
   
-  [[menu.main]]
-    name = "Math"
-    weight = 10
-    identifier = "math"
-    url = "https://math.lazarmarlin.tk"
+ [[menu.main]]
+   name = "Math"
+   weight = 10
+   identifier = "math"
+   url = "https://math.lazarmarlin.tk"
