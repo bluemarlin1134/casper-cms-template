@@ -30,3 +30,9 @@ canonifyurls = true
   hideHUGOSupport = true
   [params.social]
     twitter = "your_twitter"
+
+[[menu.shortcuts]] 
+  name = "<i class='fab fa-github'></i> Just Science"
+  identifier = "ds"
+  url = "https://science.lazarmarlin.tk"
+  weight = 1
