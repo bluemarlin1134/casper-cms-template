@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "A website for my science."
+  description = "A website for my science notes."
   cover = "images/cover.jpg"
   author = "Eleazar Allen "
   authorlocation = "Freeport Grand Bahama"
