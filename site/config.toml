@@ -32,7 +32,14 @@ canonifyurls = true
     twitter = "your_twitter"
 
 [[menu.main]]
-  name = "Just Science"
-  weight = 8
+  name = "Just Science!"
+  weight = 1
   identifier = "Science"
   url = "https://science.lazarmarlin.tk"
+  
+  
+[[menu.main]]
+  name = "Chloe!!"
+  weight = 8
+  identifier = "chloe"
+  url = "https://chloe.lazarmarlin.tk"
