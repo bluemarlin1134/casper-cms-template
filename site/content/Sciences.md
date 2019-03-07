@@ -1,4 +1,6 @@
 ---
-title: [Just Science](https://science.lazarmarlin.tk)
+title: Just Science
 menu: "main"
 ---
+
+##### If you want just science, go [here](https://science.lazarmarlin.tk)
