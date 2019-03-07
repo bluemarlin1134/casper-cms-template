@@ -31,8 +31,8 @@ canonifyurls = true
   [params.social]
     twitter = "your_twitter"
 
-[[menu.shortcuts]] 
-  name = "<i class=''></i> Just Science"
-  identifier = "ds"
-  url = "https://science.lazarmarlin.tk"
+[[menu.main]]
+  name = "Just Science"
   weight = 8
+  identifier = "Science"
+  url = "https://science.lazarmarlin.tk"
