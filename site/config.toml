@@ -32,7 +32,7 @@ canonifyurls = true
     twitter = "your_twitter"
 
 [[menu.shortcuts]] 
-  name = "<i class='fab fa-github'></i> Just Science"
+  name = "<i class=''></i> Just Science"
   identifier = "ds"
   url = "https://science.lazarmarlin.tk"
-  weight = 1
+  weight = 8
