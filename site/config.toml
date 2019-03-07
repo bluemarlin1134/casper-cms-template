@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Lazar!!"
+title = "Travel!!"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "A website for my homework, fun, and my favorite things."
+  description = "A record of my travels."
   cover = "images/cover.jpg"
   author = "Eleazar Allen "
   authorlocation = "Freeport Grand Bahama"
