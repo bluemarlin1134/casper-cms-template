@@ -43,3 +43,15 @@ canonifyurls = true
   weight = 8
   identifier = "chloe"
   url = "https://chloe.lazarmarlin.tk"
+
+[[menu.main]]
+  name = "My Travel Journal"
+  weight = 9
+   identifier = "travel"
+   url = "https://travel.lazarmarlin.tk"
+  
+  [[menu.main]]
+    name = "Math"
+    weight = 10
+    identifier = "math"
+    url = "https://math.lazarmarlin.tk"
