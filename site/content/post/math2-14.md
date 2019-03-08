@@ -1,6 +1,6 @@
 
 ---
-title:Math Homework from Khan Academy
+title: Math Homework from Khan Academy
 ---
 
 ##### Okay, lets get this party started!
