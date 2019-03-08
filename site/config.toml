@@ -30,6 +30,7 @@ canonifyurls = true
   hideHUGOSupport = true
   [params.social]
     twitter = "your_twitter"
+
 [[menu.main]]
   name = "Just Science!"
   weight = 2
