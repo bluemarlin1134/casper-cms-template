@@ -55,3 +55,10 @@ canonifyurls = true
   weight = 10
   identifier = "math"
   url = "https://math.lazarmarlin.tk"
+  
+  
+ [[menu.main]]
+  name = "Language!!"
+  weight = 10
+  identifier = "lan"
+  url = "https://language.lazarmarlin.tk"
