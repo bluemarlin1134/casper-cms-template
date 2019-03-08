@@ -1,9 +1,4 @@
-
----
-title: Math Homework from Khan Academy
----
-
-##### Okay, lets get this party started!
+##### Math Homework from Khan Academy
 ---
 #
              Eleazar Allen             Math         2-14-19
