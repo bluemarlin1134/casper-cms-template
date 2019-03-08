@@ -46,5 +46,5 @@ canonifyurls = true
 [[menu.main]]
   name = "My Travel Journal"
   weight = 9
-   identifier = "travel"
-   url = "https://travel.lazarmarlin.tk"
+  identifier = "travel"
+  url = "https://travel.lazarmarlin.tk"
