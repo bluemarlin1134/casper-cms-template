@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Travel!!"
+title = "Language!!"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "A record of my travels."
+  description = "Language Homework."
   cover = "images/cover.jpeg"
   author = "Eleazar Allen "
   authorlocation = "Freeport Grand Bahama"
@@ -49,3 +49,9 @@ canonifyurls = true
   weight = 9
   identifier = "travel"
   url = "https://travel.lazarmarlin.tk"
+  
+ [[menu.main]]
+  name = "Math!!"
+  weight = 10
+  identifier = "math"
+  url = "https://math.lazarmarlin.tk"
