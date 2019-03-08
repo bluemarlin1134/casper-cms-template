@@ -1,5 +1,4 @@
- ---
- title: Random questions on distance.
+ Random questions on distance.
  ---
  
  [^1]: Note: the question aks for  **complete laps** 
