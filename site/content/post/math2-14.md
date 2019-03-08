@@ -1,5 +1,7 @@
-##### Math Homework from Khan Academy
 ---
+title: Math homework form Khan Academy
+---
+
 #
              Eleazar Allen             Math         2-14-19
 [^1]: **Do not** **ever** do this on a test!
