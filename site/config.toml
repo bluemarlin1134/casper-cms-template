@@ -29,3 +29,22 @@ canonifyurls = true
   hideHUGOSupport = true
   [params.social]
     twitter = "your_twitter"
+
+[[menu.main]]
+  name = "Just Science!"
+  weight = 2
+  identifier = "Science"
+  url = "https://science.lazarmarlin.tk"
+  
+  
+[[menu.main]]
+  name = "Back Home"
+  weight = 1
+  identifier = "Home"
+  url = "https://lazarmarlin.tk"
+
+[[menu.main]]
+  name = "My Travel Journal"
+  weight = 9
+   identifier = "travel"
+   url = "https://travel.lazarmarlin.tk"
