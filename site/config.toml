@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Lazar!!"
+title = "Math!!"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "A website for my homework, fun, and my favorite things."
+  description = "A website for my math notes"
   cover = "images/cover.jpg"
   author = "Eleazar Allen "
   authorlocation = "Freeport Grand Bahama"
@@ -33,16 +33,16 @@ canonifyurls = true
 
 [[menu.main]]
   name = "Just Science!"
-  weight = 1
+  weight = 2
   identifier = "Science"
   url = "https://science.lazarmarlin.tk"
   
   
 [[menu.main]]
-  name = "Chloe!!"
-  weight = 8
-  identifier = "chloe"
-  url = "https://chloe.lazarmarlin.tk"
+  name = "Back Home"
+  weight = 1
+  identifier = "Home"
+  url = "https://lazarmarlin.tk"
 
 [[menu.main]]
   name = "My Travel Journal"
