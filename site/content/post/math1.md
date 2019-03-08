@@ -1,4 +1,9 @@
+ ---
+ title: Random questions on distance.
+ ---
+ 
  [^1]: Note: the question aks for  **complete laps** 
+ 
  ### Question 1:
  ---
  > Your car gets 25 miles per gallon, and you want to go on a 400 mile road trip. Right now gas cost 3.00 per gallon. How much will the gas for your road trip cost?
