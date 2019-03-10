@@ -49,3 +49,17 @@ canonifyurls = true
   weight = 9
   identifier = "travel"
   url = "https://travel.lazarmarlin.tk"
+
+[[menu.main]]
+  name = "➖💲Math ➗ ➕"
+  weight = 10
+  identifier = "math"
+  url = "https://math.lazarmarlin.tk"
+  
+  
+ [[menu.main]]
+  name = "😀 Language!! 😃"
+  weight = 10
+  identifier = "lan"
+  url = "https://language.lazarmarlin.tk"
+
