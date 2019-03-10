@@ -65,6 +65,6 @@ canonifyurls = true
   
  [[menu.main]]
   name = "Chloe!!"
-  weight = 10
+  weight = 14
   identifier = "clo"
   url = "https://chloe.lazarmarlin.tk"
