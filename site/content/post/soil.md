@@ -1,7 +1,7 @@
 ---
 title: Spoiled Soil
 ---
-[^1]: I really don't know why they make a distiction here, Salt is a mineral.
+[^1]: I really don't know why they make a distinction here, Salt is a mineral. 🤨
 
 > Soil is a layer of rock debris and organic matter.
 
@@ -19,8 +19,8 @@ title: Spoiled Soil
 - soil hummus
     - essential source of:
         - water 💧
-        - minerals 🦴
-        - salts[^1] 🧂
+        - minerals 
+        - salts[^1] 
 - clay soil
     - trees and shrubs grow well
     - vegetables to not grow well (roots can not penetrate)
