@@ -58,7 +58,7 @@ canonifyurls = true
   
   
  [[menu.main]]
-  name = "Language!!"
+  name = "😀 Language!! 😃"
   weight = 10
   identifier = "lan"
   url = "https://language.lazarmarlin.tk"
