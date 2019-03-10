@@ -62,3 +62,9 @@ canonifyurls = true
   weight = 10
   identifier = "lan"
   url = "https://language.lazarmarlin.tk"
+  
+ [[menu.main]]
+  name = "Chloe!!"
+  weight = 10
+  identifier = "clo"
+  url = "https://chloe.lazarmarlin.tk"
