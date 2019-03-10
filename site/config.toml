@@ -32,7 +32,7 @@ canonifyurls = true
     twitter = "your_twitter"
 
 [[menu.main]]
-  name = " "🔬 Science!! 🧠""
+  name = "🔬 Science!! 🧠"
   weight = 2
   identifier = "Science"
   url = "https://science.lazarmarlin.tk"
