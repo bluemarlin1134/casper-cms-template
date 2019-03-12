@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Lazar!!"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+disqusShortname = "lazar"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = "UA-136072375-1"
 # Define how many posts should appear on a site
