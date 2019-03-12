@@ -1,9 +1,9 @@
-baseurl = "/"
+baseurl = "/lazarmarlin.tk"
 languageCode = "en-us"
 title = "Lazar!!"
 theme = "hugo-theme-casper"
 disqusShortname = "lazar"
-disqus = "https://lazarmarlin.tk"
+
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = "UA-136072375-1"
 # Define how many posts should appear on a site
