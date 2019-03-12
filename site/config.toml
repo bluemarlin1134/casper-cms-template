@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://lazarmarlin.tk"
 languageCode = "en-us"
 title = "Lazar!!"
 theme = "hugo-theme-casper"
