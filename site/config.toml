@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "Hello!"
-  cover = "images/cover.jpg"
+  cover = "images/cover.png"
   author = "Lazar Marlin "
   authorlocation = "Freeport Grand Bahama"
   authorwebsite = "https://lazarmarlin.gq"
