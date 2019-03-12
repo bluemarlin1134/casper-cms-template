@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Lazar!!"
 theme = "hugo-theme-casper"
-disqusShortname = "lazar"
+#disqusShortname = "lazar"
 
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = "UA-136072375-1"
