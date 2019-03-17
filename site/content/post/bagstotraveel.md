@@ -1,3 +1,7 @@
+---
+title: Getting ready for the trip
+draft: false
+---
 In a few days , I'm gonna be leaving the island! How many days is a few? OH... maybe just one more day! We are going to europe for passover. But after that, we will go to Israel, Poland, Morroco, Venice, Italy, France, One other place I can't remember, and finally back home. 
 
 Sounds like the vacation of a lifetime right? Well... yes it will be great, and I am totally jacked and looking forward to it, but we have no bags. Yes, you heard it. **No bags**. You see, ryan air, and all theese *budget airlines* let you carry on the airplane without making you pay a ridiculous fee, is this:
