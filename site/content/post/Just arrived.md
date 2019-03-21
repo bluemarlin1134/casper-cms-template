@@ -1,7 +1,7 @@
---
+---
 title: We arrived
 date: 3-21-1
---
+---
 
 [^1]:Yes I know, like the mushroom
 
