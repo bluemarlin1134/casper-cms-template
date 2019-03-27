@@ -9,7 +9,7 @@ So, I will start from the beginning.
 
 When we arrived in Jerusalem, we went to a hotel in the arab side. We had went to it last year, and enjoyed it very much, so we decided to come back. Sadly, now happily, they had no room, so the guy was nice enough to call around, and he booked dad a room at the Colonial Hotel in German Colony in Jerusalem. The hotel was nice, but we go the attic room, so we had to bend our heads everywhere and stoop, so we aptly named it the hobbit room. Needless to say we bumped our heads many times. 
 
-So the next day we found ourselves walking to the old city, ![oliviatree](/post/travel/veiwfromtombs.JPG/) and as we were walking there, a cab drives up to us and stops. The man inside honks at us, and we stop. 
+The next day we found ourselves walking to the old city, ![oliviatree](/post/travel/veiwfromtombs.JPG/) and as we were walking there, a cab drives up to us and stops. The man inside honks at us, and we stop. 
 
 "Hello!" He says.
 
@@ -88,8 +88,33 @@ The drive was nice and I think I took this picture from one of the hills overloo
 
 ![](/post/travel/veiw3.JPG/)
 
-The church in bethlehem is gigantic, but we decided not to go inside. Mr hussein then took us to eat. The food was amazing! This is where I took Mr.Hussiens picture
+The church in bethlehem is gigantic, but we decided not to go inside. Mr hussein then took us to eat. The food was amazing! This is where I took Mr.Hussiens picture.
 ![](/post/travel/hussein.JPG/)
+
+It was not long before we finished our food, and then we went souviner shopping. Well... Mom did. She bought a cup that had Bethlehem on the bottom with a nice picture, and a lid that had Jerusalem with a picture on the top. I cost her 5.00. One of the big items in Bethlehem is little, or sometimes big olive wood carvings. The wood is grown in Bethlehem. We did not buy any, but a few of them looked quite nice. Mr. Hussein then took us to this place where they sold... well everything. He offered to let us take anything we want, we pay him tommorow, and he will pay the store owner whenever he comes to Bethlehem (Which we found out is quite often).
+
+He then took us back to Jerusalem. Because it was raining, we were trying to make up our minds wheather to head to the western wall, or to go back to the hotel. After much discussion we decided to head on over to the western wall, mainly because it looked like the rain had stopped... it hadn't. Needless to say, we got very wet.
+
+The western wall was great, a little slippery though because every building and alot of floors, and even some street and almost all sidewalks are made with Jerusalem stone. Jerusalem stone has the color of sandstone and the texture of granite, but it is quite slippery when it rains.
+
+I did not get any pictures of the western wall because they don't allow pictures, and, there is already plenty on the internet you can see [here](https://www.google.com/search?q=western%20wall&safe=strict).
+
+After a bit of walking, we found the Jaffa gate, which we were told be could exit out of. 
+
+The hotel was not a far walk, but we went through a market thet had sculptures which I thought a few of them were pretty good, and I liked the menorahs.
+
+![](/post/travel/wyatt.JPG/)
+
+![](/post/travel/menorah.JPG/)
+
+I think I will actually end here, and will pick up the next day int the next post.
+
+##### Seeya!
+
+
+
+
+
 
 
 
