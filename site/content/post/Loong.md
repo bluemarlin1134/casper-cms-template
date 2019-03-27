@@ -108,6 +108,7 @@ The hotel was not a far walk, but we went through a market thet had sculptures w
 ![](/post/travel/menorah.JPG/)
 
 I think I will actually end here, and will pick up the next day int the next post.
+Something interesting, and I will put it in the funny post, when I write it, we saw this: ![](/post/travel/car.jpg/)
 
 ##### Seeya!
 
