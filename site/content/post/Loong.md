@@ -46,7 +46,7 @@ Dad thought for a while, and accepted the offer.
 
 He first took us to see the Garden of Gethsemane. There they have 8 olive trees that are over 800 years old!
 
-![](/travel/geth.JPG/)
+![](/content/post/travel/geth.JPG/)
 
 Theres one.
 
