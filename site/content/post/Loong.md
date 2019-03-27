@@ -1,12 +1,10 @@
 ---
 title: More from Israel
 ---
+[^1]: Mr. Hussein uses the Shekel and the Dollar back and forth. When we were buying a meal, we thought he said 400 dollars, when he really only said 400 shekel.
+
 ##### I have to  catch up on two days with this post, so this might be very long...
 
-<script>
-    lang=javascript
-    alert("This page has alot of very big images, so give it a little time to load.");
-</script>
 So, I will start from the beginning.
 
 When we arrived in Jerusalem, we went to a hotel in the arab side. We had went to it last year, and enjoyed it very much, so we decided to come back. Sadly, now happily, they had no room, so the guy was nice enough to call around, and he booked dad a room at the Colonial Hotel in German Colony in Jerusalem. The hotel was nice, but we go the attic room, so we had to bend our heads everywhere and stoop, so we aptly named it the hobbit room. Needless to say we bumped our heads many times. 
@@ -59,5 +57,37 @@ Theres one.
 Here's another one.
 
 ![](/post/travel/geth.JPG/)
+
+Then we went to the Mount of Olives. You ever see one of those pictures of the veiw in Jerusalem? It kinda usually looks like this:
+![](/post/travel/mountolive.JPG/)
+WELL...maybe not that bad of quality. I have a camera, but it does not do good taking pictures from a long distance.
+
+The this is, those pictures are usually taken from the overlooking mount of olives.
+
+So we get back into the cab, and the agreement was to take us to the Western Wall in the old city. But Mr.Hussein (The cab drivers name we found out.) says.
+
+"I tell your father that I ready to go to Bethlehem now, because the traffic is good. I take you route no tourist go."
+ 
+"Really? Mom says."
+
+"Yes, before they build highway, they used to take you down old route. Now they go down highway. I take you down old route."
+
+Dad was still taking pictures from the mount of olives. I will try to get a few off of his phone, and put them in the gallery. So when Dad got in Mr. Hussein told him the same thing he told us, and offered to even take us out to eat.
+
+"I charge you only 120 dollar[^1]." He said. 
+
+"How about 110? Dad says."
+
+"Okay." Mr. Hussein accepted.
+
+So now, we were on our way to Bethlehem.
+
+The drive was nice and I think I took this picture from one of the hills overlooking Jerusalem.
+
+![](/post/travel/view1.JPG/)
+
+![](/post/travel/view2.JPG/)
+
+
 
 
