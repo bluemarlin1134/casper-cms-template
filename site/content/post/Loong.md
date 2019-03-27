@@ -7,7 +7,7 @@ So, I will start from the beginning.
 
 When we arrived in Jerusalem, we went to a hotel in the arab side. We had went to it last year, and enjoyed it very much, so we decided to come back. Sadly, now happily, they had no room, so the guy was nice enough to call around, and he booked dad a room at the Colonial Hotel in German Colony in Jerusalem. The hotel was nice, but we go the attic room, so we had to bend our heads everywhere and stoop, so we aptly named it the hobbit room. Needless to say we bumped our heads many times. 
 
-So the next day we found ourselves walking to the old city, and as we were walking there, a cab drives up to us and stops. The man inside honks at us, and we stop. 
+So the next day we found ourselves walking to the old city, ![oliviatree](/post/travel/veiwfromtombs.JPG/) and as we were walking there, a cab drives up to us and stops. The man inside honks at us, and we stop. 
 
 "Hello!" He says.
 
