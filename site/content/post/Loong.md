@@ -88,6 +88,9 @@ The drive was nice and I think I took this picture from one of the hills overloo
 
 ![](/post/travel/veiw3.JPG/)
 
+The church in bethlehem is gigantic, but we decided not to go inside. Mr hussein then took us to eat. The food was amazing! This is where I took Mr.Hussiens picture
+![](/post/travel/hussein.JPG/)
+
 
 
 
