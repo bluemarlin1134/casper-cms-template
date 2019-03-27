@@ -48,7 +48,7 @@ Now Dad is no stranger to bargaining, he does it all the time, so now He was in 
 
 Dad thought for a while, and accepted the offer.
 
-He first took us to see the Garden of Gethsemane. There they have 8 olive trees that are over 800 years old!
+He first took us to see the Garden of Gethsemane. ![](/travel/gardengeth.JPG/) There they have 8 olive trees that are over 800 years old!
 
 ![oliviatree](/post/travel/geth.JPG/)
 
