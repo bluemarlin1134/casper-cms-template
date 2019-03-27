@@ -1,3 +1,6 @@
+---
+title: More from Israel
+---
 ##### I have to  catch up on two days with this post, so this might be very long...
 
 So, I will start from the beginning.
