@@ -86,7 +86,7 @@ The drive was nice and I think I took this picture from one of the hills overloo
 
 ![](/post/travel/view1.JPG/)
 
-![](/post/travel/view2.JPG/)
+![](/post/travel/veiw3.JPG/)
 
 
 
