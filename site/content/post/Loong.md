@@ -91,9 +91,11 @@ The church in bethlehem is gigantic, but we decided not to go inside. Mr hussein
 
 It was not long before we finished our food, and then we went souviner shopping. Well... Mom did. She bought a cup that had Bethlehem on the bottom with a nice picture, and a lid that had Jerusalem with a picture on the top. I cost her 5.00. One of the big items in Bethlehem is little, or sometimes big olive wood carvings. The wood is grown in Bethlehem. We did not buy any, but a few of them looked quite nice. Mr. Hussein then took us to this place where they sold... well everything. He offered to let us take anything we want, we pay him tommorow, and he will pay the store owner whenever he comes to Bethlehem (Which we found out is quite often).
 
+Just down the road we saw the wall that separates Israel from the West Bank. ![](/post/travel/wall.jpg/) There is a gate there too, which they only open when a big official comes or on x-mas. He said they opened it when Donald Trump came to israel. They also have a picture of him on the wall. ![](/post/travel/trump.jpg/)
+
 He then took us back to Jerusalem. Because it was raining, we were trying to make up our minds wheather to head to the western wall, or to go back to the hotel. After much discussion we decided to head on over to the western wall, mainly because it looked like the rain had stopped... it hadn't. Needless to say, we got very wet.
 
-The western wall was great, a little slippery though because every building and alot of floors, and even some street and almost all sidewalks are made with Jerusalem stone. Jerusalem stone has the color of sandstone and the texture of granite, but it is quite slippery when it rains.
+The western wall was great, a little slippery though because every building and alot of floors, and even some street and almost all sidewalks are made with Jerusalem stone. Jerusalem stone has the color of sandstone and the texture of granite, but it is quite slippery when it rains.  ![](/post/travel/slip.jpg/)
 
 I did not get any pictures of the western wall because they don't allow pictures, and, there is already plenty on the internet you can see [here](https://www.google.com/search?q=western%20wall&safe=strict).
 
