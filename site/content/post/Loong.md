@@ -52,8 +52,6 @@ He first took us to see the Garden of Gethsemane. ![](/post/travel/gardengeth.JP
 
 Theres one.
 
-![](/post/travel/olivegeth.JPG/)
-
 Here's another one.
 
 ![](/post/travel/geth.JPG/)
