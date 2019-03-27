@@ -3,6 +3,10 @@ title: More from Israel
 ---
 ##### I have to  catch up on two days with this post, so this might be very long...
 
+<script>
+    lang=javascript
+    alert("This page has alot of very big images, so give it a little time to load.");
+</script>
 So, I will start from the beginning.
 
 When we arrived in Jerusalem, we went to a hotel in the arab side. We had went to it last year, and enjoyed it very much, so we decided to come back. Sadly, now happily, they had no room, so the guy was nice enough to call around, and he booked dad a room at the Colonial Hotel in German Colony in Jerusalem. The hotel was nice, but we go the attic room, so we had to bend our heads everywhere and stoop, so we aptly named it the hobbit room. Needless to say we bumped our heads many times. 
