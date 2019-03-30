@@ -34,12 +34,22 @@ Mr. Hussein was aiting for us on the other side, to take us to the old city to w
 
 We then went to a place where they blow glass. And the guy literally mad a vase right there in front of us from scratch!
 
-![](gblow1.JPG)
+![](/post/travel/gblow1.JPG)
 
-![](gblow2.JPG)
+![](/post/travel/gblow2.JPG)
 
-![](gblow3.JPG)
+![](/post/travel/gblow3.JPG)
 
-![](gblow4.JPG)
+![](/post/travel/gblow4.JPG)
 
+I ended up buying a fish made from glass... I dont know what possesed me to do it.
 
+Okay, this is where things get funny.
+
+Mr.Hussein's son is having a child, so he wanted to get some things for it. So he asks us f he can stop at the toy shop to see if he can buy it. Dad of course said yes and he said we would go with him. On the way to the store Mr.Hussein met his  friend Abu Ali. (Pay attention to that name because things get interesting.) Abu Ali owns the toy shop. So while Mr.Hussein was shopping I picked up an mp3 player, and asked how much it was. Abu Ali only speaks arabic, so when I asked him how much it was, he said: 
+
+Abu Ali: "Khoreaysh." (Sorry, I know I probably butchered that.)
+
+Me: "Umm... What's that in english?"
+
+So we ended up making a  big scene, fingers start going up, we called people who spoke english, we started counting. His son came over, and had a good laugh at our expense... We ended up finding out that that meant 15... after someone pulled out his calculator on his phone and typed it.
