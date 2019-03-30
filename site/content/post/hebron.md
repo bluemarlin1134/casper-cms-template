@@ -73,12 +73,15 @@ While in the toy shop we found out that Abu Ali is a Dj, and he taught us a clas
 
 We aint done yet! He then, took us to see his studio! Then he took us to see his office!
 
-Abu Ali is an antique collector, and has some very cool stuff there. ![](/post/travel/antiques2.JPG)
+Abu Ali is an antique collector, and has some very cool stuff there. Sorry the pics are so blurry.
+
+![](/post/travel/antiques2.JPG)
 
 ![](/post/travel/antiques4.JPG)
 
 THEN, we saw his place wherehe keeps his dj stuff, and he turned it on really loud, and we started dancing, and I got to use the microphone, which as soon as I got it, I had no idea of what to say... and on, and on.
 
+Abu Ali is the last guy on the right.
 ![](/post/travel/djpic.JPG)
 
 ![](/post/travel/djthingy.JPG)
