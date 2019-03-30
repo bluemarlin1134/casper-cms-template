@@ -52,4 +52,37 @@ Abu Ali: "Khoreaysh." (Sorry, I know I probably butchered that.)
 
 Me: "Umm... What's that in english?"
 
-So we ended up making a  big scene, fingers start going up, we called people who spoke english, we started counting. His son came over, and had a good laugh at our expense... We ended up finding out that that meant 15... after someone pulled out his calculator on his phone and typed it.
+So we ended up making a  big scene, fingers start going up, we called people who spoke english, we started counting. His son came over, and had a good laugh at our expense... We ended up finding out that that meant 15... after someone pulled out his calculator on his phone and typed it. 
+
+I managed to start a conversation with Osed, Abu Ali's son, and we through much hand signals, and waving had a good time talking with him. I will try to upload those pics later.
+
+![](/post/travel/boywemet.JPG)
+
+There is a picture I found of him.
+
+Then he took me over to his friends coffee shop where he took a picture of me with him, then invited Moshe and I in for Backlava (which by the way is pronounced backlawa.) Then they gave us not one, not two, not three, not four, FIVE arab coffees. They are like the expressos expresso. Small but deadly. Then, mom came in, which the two women employees fell in love with and ended up.
+
+1. Giving Mom more backlava.
+2. Giving Mom more coffee.
+3. Taking A selfie with Mom.
+4. Yelling "We love you!" And nearly breaking out into ears as Mom left the shop.
+
+Meanwhile, Osem and his friend gave me their facebook accounts, I gave them my email. Had a short burst of pictures. I know what youre thinking right now. "I thought you just met them?" I know. AND IT GETS BETTER!
+
+While in the toy shop we found out that Abu Ali is a Dj, and he taught us a classic Bedouin dance, and showed us some of his parties he goes to.
+
+We aint done yet! He then, took us to see his studio! Then he took us to see his office!
+
+Abu Ali is an antique collector, and has some very cool stuff there. ![](/post/travel/antiques2.JPG)
+
+![](/post/travel/antiques4.JPG)
+
+THEN, we saw his place wherehe keeps his dj stuff, and he turned it on really loud, and we started dancing, and I got to use the microphone, which as soon as I got it, I had no idea of what to say... and on, and on.
+
+![](/post/travel/djpic.JPG)
+
+![](/post/travel/djthingy.JPG)
+
+All this to say, we had a great time, and I know I am missing alot of pictures, but when we get home, and we get the computer going right, I will upload all the other pictures too.
+
+##### Seeya!
