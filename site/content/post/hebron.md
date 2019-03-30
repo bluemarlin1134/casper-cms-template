@@ -92,7 +92,7 @@ All this to say, we had a great time, and I know I am missing alot of pictures, 
 
 ![](/post/travel/pigeon2.JPG)
 
-![](/post/travel/pigeon3.JPG)
+
 
 ![](/post/travel/pigeon4.JPG)
 
