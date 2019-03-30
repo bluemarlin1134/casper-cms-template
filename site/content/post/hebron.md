@@ -1,7 +1,7 @@
 ---
 title: Hebron!
 ---
-
+[^2]: He said they sell for 8000 dollars each!!! 
 Last night, i had a hard time getting to sleep. I mean I was tired, it's just I couldn't get to sleep! I don't think those 5 arab coffees I had yesterday, and that one americano had anything to do with it though.
 
 Mr Hussein showed up right on time to get his money that we owed him from yesteday from our trip to Bethlehem. The hotel manager gave us free breakfast that morning. That was my forst (my first, and my worst) cup of coffee that day. When **<*cough*>** he talked Dad into letting him take us on a trip to Hebron.
@@ -86,7 +86,7 @@ Abu Ali is the last guy on the right.
 
 ![](/post/travel/djthingy.JPG)
 
-All this to say, we had a great time, and I know I am missing alot of pictures, but when we get home, and we get the computer going right, I will upload all the other pictures too. I have Some more stuff we saw, Like one of Abu Ali's band members keeps pigeons. 
+All this to say, we had a great time, and I know I am missing alot of pictures, but when we get home, and we get the computer going right, I will upload all the other pictures too. I have Some more stuff we saw, Like one of Abu Ali's band members keeps pigeons.[^2] By the way, we also took pictures with them too.
 
 ![](/post/travel/pigeon1.JPG)
 
