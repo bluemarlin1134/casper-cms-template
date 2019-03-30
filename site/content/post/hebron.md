@@ -86,6 +86,14 @@ Abu Ali is the last guy on the right.
 
 ![](/post/travel/djthingy.JPG)
 
-All this to say, we had a great time, and I know I am missing alot of pictures, but when we get home, and we get the computer going right, I will upload all the other pictures too.
+All this to say, we had a great time, and I know I am missing alot of pictures, but when we get home, and we get the computer going right, I will upload all the other pictures too. I have Some more stuff we saw, Like one of Abu Ali's band members keeps pigeons. 
+
+![](/post/travel/pigeon1.JPG)
+
+![](/post/travel/pigeon2.JPG)
+
+![](/post/travel/pigeon3.JPG)
+
+![](/post/travel/pigeon4.JPG)
 
 ##### Seeya!
