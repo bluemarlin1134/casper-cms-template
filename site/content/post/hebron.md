@@ -62,7 +62,7 @@ I managed to start a conversation with Osed, Abu Ali's son, and we through much 
 
 There is a picture I found of him.
 
-Then he took me over to his friends coffee shop where he took a picture of me with him, then invited Moshe and I in for Backlava (which by the way is pronounced backlawa.) Then they gave us not one, not two, not three, not four, FIVE arab coffees. They are like the expressos expresso. Small but deadly. Then, mom came in, which the two women employees fell in love with and ended up.
+Then he took me over to his friends coffee shop where he took a picture of me with him, then invited Moshe and I in for Backlava (which by the way is pronounced backlawa.) Then they gave us not one, not two, not three, not four, FIVE arab coffees. They are like the expressos expresso. Small but deadly. Then, mom came in, which the two women employees fell in love with and ended up:
 
 1. Giving Mom more backlava.
 2. Giving Mom more coffee.
