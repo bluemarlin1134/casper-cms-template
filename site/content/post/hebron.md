@@ -42,6 +42,8 @@ We then went to a place where they blow glass. And the guy literally mad a vase 
 
 ![](/post/travel/gblow4.JPG)
 
+![](/post/travel/vase.JPG)
+
 I ended up buying a fish made from glass... I dont know what possesed me to do it.
 
 Okay, this is where things get funny.
