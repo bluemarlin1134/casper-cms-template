@@ -41,3 +41,5 @@ So we hiked on over to room four, and it was lke night and day! Overall we had a
 After Sabbath, we walked out to see the town, because we hadn't seen much of it that day. We saw some amazing Hotels, and went to this mall. They have this booth there, where thay let theese fish eat the dead skin and germs off your skin.
 
 ![](/post/travel/skinfish.jpg)
+
+At around 10 or 11, we got back to the hotel, ready the next morning to set off for Italy.
