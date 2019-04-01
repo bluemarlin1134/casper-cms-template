@@ -21,3 +21,23 @@ Here is some pics I took on the way.
 ![](/post/travel/elattrip3.JPG)
 
 ![](/post/travel/elattrip4.JPG)
+
+On the trip, there was this **really** loud and annoying french girl, who laughed and giggled all the way there... for FOUR HOURS!
+
+There was also something else, but I'll put that in my funny things post.
+
+Eilat was warm when we got there compared to the freezing cold we endured in Jerusalem. Our arrival time was pretty close to sunset, so we had to hurry up and get to the Hotel and buy food. 
+
+Here's picture of the hotel.
+
+![](/post/travel/puravida.JPG)
+
+Funny thing happened there. When we got to the room that Dad had got, we weren't too impressed. The couch was sunk in on one side, the remote to the tv was caked with gunk, and overall it was overall just dirty. So Mom obviously wasn't too happy. Well we got half settled in, and hooked up the phones to the wifi, when we get this text from the owner of the place where we booked it. 
+
+> "Please confirm. I have switched your room from  room 3 to room 4. Please confirm."
+
+So we hiked on over to room four, and it was lke night and day! Overall we had a good stay in the hotel.
+
+After Sabbath, we walked out to see the town, because we hadn't seen much of it that day. We saw some amazing Hotels, and went to this mall. They have this booth there, where thay let theese fish eat the dead skin and germs off your skin.
+
+![](/post/travel/skinfish.jpg)
