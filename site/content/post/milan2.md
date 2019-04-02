@@ -36,4 +36,7 @@ Well we found out that the lady who runs the hotel, saw us and...  just musta th
 
 Anyway, where this hotel was located we would still be there looking for it.
 
-Now... when I say fancy looking, I mean fancy! From the shower head on down. But I have another post to write tonight so I wont go into details.
+Now... when I say fancy looking, I mean fancy! From the shower head on down. But I have another post to write tonight so I wont go into details. Sadly though, I have all the pictures on my go pro... and we are currently in a dilemma with my laptop which I will explain later in the next post...
+
+##### Seeya!
+
