@@ -14,7 +14,9 @@ So now I will begin where I left off. The bus ride to Milan wasn't the greatest 
 
 ![](/post/travel/italysupermarket3.JPG/)
 
-There bananas looked terrible 😣 but... so does Walmart bananas.
+Hey! That face  looks familiar 😂!
+
+uTheir bananas looked terrible 😣 but... so does Walmart bananas.
 
 ![](/post/travel/italybananas.JPG/)
 
