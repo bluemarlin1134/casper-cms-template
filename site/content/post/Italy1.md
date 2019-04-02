@@ -23,7 +23,7 @@ The flight was good, I fell asleep ike 5 times. I got some very nice pictures of
 
 When we got off the flight, the border guard, when he saw Dads passport, was like: "Oooh Bahamas." So he went and showed it to  his friend. Then looked it up on his phone, and was like: "Ohhh, nice beaches. Swimming pigs! Wow." Anyway.... my first impressions of Italy were no exactly that great. There is calot of graffiti there, so if you do see a nice building or something, it always seems to be messed up. If ny of you Italian graffiti artist are reading this, **STOP** your making me dislike your country!
 
-Our ride from the airport to the central bust station was not long, so I didn't bother taking many pictures, and when I make the gallery I will put them there.
+Our ride from the airport to the central bus station was not long, so I didn't bother taking many pictures, and when I make the gallery I will put them there.
 
 Well, its getting late, so I think I will publish this, and put the rest up tommorow.
 
