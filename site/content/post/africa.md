@@ -22,3 +22,9 @@ Now this is where things get funny. So Dad had reserved the room, but had not pa
 "What?" He asked. "I have never seen this before."
 
 Mr. Yousef was so used to seeing and using a chip card, he never had even seen a swipe card. Mom, had to teach him how to use one. See, people in Africa, on the other side of the world, don't even use swipe cards anymore!!! By the way, that is a plead to our Bank to update their credit cards. So we walked back down our spiral staircase, and back down two flights of stairs, to our room to get ready for bed.
+
+The Shower in our room a dome, make out of clay, and was so big, it was like a room, inside a room. But the highlight of our hotel was not the shower, but the mattress. **Theese matresses are SO HARD!** They feel like they are stuffed with cardboard! Come to find out they are traditionally stuffed with sheeps wool. I didn't realize this at first when  I flopped on the bed, and the whole bed moved and I ended up on the floor. But, don't get me wrong, I slept really good on them.
+
+Well, I have some more to right, but I'll put the other stuff in the next post.
+
+##### Seeya!
