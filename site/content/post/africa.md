@@ -14,3 +14,11 @@ So, when you enter the old city in Morrocco, you have to drive though the gates 
 We had so many near misses that night... it was crazy.
 
 In the end, with a little bit of walking included, our driver managed to find the Riad Kech, our hotel. From the outside, it looked really... unglamorous. It was in a narrow side street, in a narrower corner, with a sign, that I didn't even notice was there until the next day. Anyway, the driver knocked at the door for us, and the manager, later to find out was also the waiter, the cleaner, and the **best mint tea maker on the face of this planet**, mr Yousef, answered the door. We walked into the first room there, which I assumed was the lobby. It had a big fountain in the  middle of it, two couches, and some very big curtains on the wall. Looked kinda like the lobby at a Laquinta or something like that. So when he said: "Well, welcome, this is your room." And then handed us the keys, I think all of us, at least I know I was like. "**I LOVE MORROCCO!**" Really though, what were they thinking by putting a fountain in the middle of the room? (I'm not complaining.)
+
+There were, including the living room, the bathroom, the master bed room, and another bed room with three twin sized beds in it.
+
+Now this is where things get funny. So Dad had reserved the room, but had not paid for it yet, a custom that is done on that side o the world quite often. So we wwent up like 2 flights of stairs, plus another spiral staircase where Mr. Yousef lives. Mom signed some papers, and He pulled out a credit card machine from under His matress. Mom handed him her credit card, and he went to stick it into the slot... "Wait!" Mom said, it's a swipe card, you have to swipe it. 
+
+"What?" He asked. "I have never seen this before."
+
+Mr. Yousef was so used to seeing and using a chip card, he never had even seen a swipe card. Mom, had to teach him how to use one. See, people in Africa, on the other side of the world, don't even use swipe cards anymore!!! By the way, that is a plead to our Bank to update their credit cards. So we walked back down our spiral staircase, and back down two flights of stairs, to our room to get ready for bed.
