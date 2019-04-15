@@ -13,4 +13,13 @@ As soon as we walked out the door we had to pin ourselves up against the wall be
 
 ![](/post/travel/mroad.JPG/)
 
+That's a picture of the road that the Riad Kech was on. Mom decided we should go further down the same road and see what was there. While walking through, I saw this guy making leather bags, and purses. I saw one that I thoought would be good to put my computer in, so I asked how much it was. 
 
+Rule 1: Don't assume people know english in Morrocco
+Rule 2: Don't be afraid to ask if the person speaks english.
+
+Because I forgot both rules, we ended up in a hand waving match trying to figure out what eachother was saying. Kinda like with Abu Ali in Hebron. The guy finally got his sister who speaks a ***little*** english. 
+
+Now this is was our man problem in Morrocco, when asking a price, don't get scared when the guy says 800 dirham, or a large number like that. You must remember, the conversion rate to euros is **ten to one**. So when the guys sister, says 800, we start trying to figure out if that is dirham or euro. And becuase we didn't know the conversion rate, we ended up, like hebron again, pulling out calculators... in the end we realized the bag cost 80 dollars.
+
+The guys sister, the one who helped us, took us to her restaurant, just on the other side of the street. Now, morroccan food looks good, smells good, but taste **AMAZING!** We decided we wouldn't get anything from her then,
