@@ -28,11 +28,12 @@ Me: "What!?"
 
 Dad: "Well we are kinda half jewish."
 
-We finally told us that our driver was over there, and we are... well, she finally and reluctantly let us pass. Whew!
+We finally told us that our driver was over there, and we are... well, she finally andreluctantly let us pass. Whew!
 
 Mr. Hussein was aiting for us on the other side, to take us to the old city to walk around and shop. Dad got us all freshly squeezed pomegranate juice, and one guy managed to get mom to buy a whole necklace set! I'm telling you, when these Arabs  want you to spend, they get you to!
 
 We then went to a place where they blow glass. And the guy literally mad a vase right there in front of us from scratch!
+![](/post/travel/gblowshop.jpg) 
 
 ![](/post/travel/gblow1.JPG)
 
@@ -41,6 +42,8 @@ We then went to a place where they blow glass. And the guy literally mad a vase 
 ![](/post/travel/gblow3.JPG)
 
 ![](/post/travel/gblow4.JPG)
+
+
 
 ![](/post/travel/vase.JPG)
 
@@ -67,9 +70,13 @@ Then he took me over to his friends coffee shop where he took a picture of me wi
 1. Giving Mom more backlava.
 2. Giving Mom more coffee.
 3. Taking A selfie with Mom.
-4. Yelling "We love you!" And nearly breaking out into ears as Mom left the shop.
+4. Yelling "We love you!" And nearly breaking out into tears as Mom left the shop.
 
-Meanwhile, Osem and his friend gave me their facebook accounts, I gave them my email. Had a short burst of pictures. I know what youre thinking right now. "I thought you just met them?" I know. AND IT GETS BETTER!
+Meanwhile, Osem and his friend gave me their facebook accounts, I gave them my email. Had a short burst of pictures. I know what youre thinking right now. "I thought you just met them?" I know. 
+![](/post/travel/boywemetabukids.jpg)
+
+AND IT GETS BETTER!
+
 
 While in the toy shop we found out that Abu Ali is a Dj, and he taught us a classic Bedouin dance, and showed us some of his parties he goes to.
 
