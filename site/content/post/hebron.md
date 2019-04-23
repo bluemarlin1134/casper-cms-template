@@ -73,7 +73,7 @@ Then he took me over to his friends coffee shop where he took a picture of me wi
 4. Yelling "We love you!" And nearly breaking out into tears as Mom left the shop.
 
 Meanwhile, Osem and his friend gave me their facebook accounts, I gave them my email. Had a short burst of pictures. I know what youre thinking right now. "I thought you just met them?" I know. 
-![](/post/travel/boywemetabukids.jpg)
+![](/post/travel/abukids.jpg)
 
 AND IT GETS BETTER!
 
