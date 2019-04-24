@@ -26,8 +26,6 @@ Guard: "No go!"
 
 Me: "What!?"
 
-Dad: "Well we are kinda half jewish."
-
 We finally told us that our driver was over there, and we are... well, she finally andreluctantly let us pass. Whew!
 
 Mr. Hussein was aiting for us on the other side, to take us to the old city to walk around and shop. Dad got us all freshly squeezed pomegranate juice, and one guy managed to get mom to buy a whole necklace set! I'm telling you, when these Arabs  want you to spend, they get you to!
