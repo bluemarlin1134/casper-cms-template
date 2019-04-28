@@ -26,7 +26,5 @@ The guys sister, the one who helped us, took us to her restaurant, just on the o
 
 Around the corner we met a man selling more bags, leather ones, he told us... acually that's the funny thing, they don't ever tell you a straight price in Morocco, because they expect you to name your own price, and start bartering. We did find out though, that he "expected" (my own words) to get *around* 280 dirham. Now we still didn't get through our heads the exchange rate between dirham and dollar, so again, we freaked out, we at least I did, we we heard that number.
 
-Did I explain my love for the souk? It is like a farmers market on steriods, you can get fruit, nuts, clothing, medicine, fossils, crystals, sunglasses... the thing is, usually you can get things quite cheap, and it is always fun to walk around the souk, because it can literally go on for miles. So we hike off to the souk! [hoell](https://google.com)
-
-![20190402_122052.jpg](/content/post/20190402_122052.jpg)
+Did I explain my love for the souk? It is like a farmers market on steriods, you can get fruit, nuts, clothing, medicine, fossils, crystals, sunglasses... the thing is, usually you can get things quite cheap, and it is always fun to walk around the souk, because it can literally go on for miles. So we hike off to the souk! ![20190402_122052.jpg](/post/20190402_122052.jpg/)
 
