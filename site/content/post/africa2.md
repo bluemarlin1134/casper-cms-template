@@ -28,5 +28,5 @@ Around the corner we met a man selling more bags, leather ones, he told us... ac
 
 Did I explain my love for the souk? It is like a farmers market on steriods, you can get fruit, nuts, clothing, medicine, fossils, crystals, sunglasses... the thing is, usually you can get things quite cheap, and it is always fun to walk around the souk, because it can literally go on for miles. So we hike off to the souk!
 
-[20190402_122052.jpg]({{site.baseurl}}/site/content/post/20190402_122052.jpg)
+![20190402_122052.jpg]({{site.baseurl}}/site/content/post/20190402_122052.jpg)
 
