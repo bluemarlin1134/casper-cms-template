@@ -31,7 +31,15 @@ Did I explain my love for the souk? It is like a farmers market on steriods, you
 
 We met this one guy who sold things, it was almost like a "curiosisity shop". He had everything from authentic bayonets from WW2, to metal signs (one which we bought), and Mom was really interested in the rest of the shop too, so we said we would come back tommorow. I really liked the amount of stuff you can see while walking in the souk, and some of the stuff is just absolutely astounding. 
 
-What next happened was, we met this other guy while asking directions to the ATM. His name was Mr. Jimal. We ended up seeing quite a bit of him while on our trip in Morrocco. ANYWAY... He took us down this **really** shady looking side street, (That I musta walked by at least two times, and didn't see.) and all of a sudden, we popped out in the main square! Well, right there was the ATM. Because we again forgot the exchange rate, my extremely tight-handed-on-the-money brother only withdrew 1000 dirham. (Roughly equal to 100 dollars.) To my surprise Mr. Jimal had waited for us during the money trasnaction, and then as he was leading us back to the souk, he said: > "I would like to take you somewhere." I mean,we could of ran for our lives, cuz, that is a very strange thing to say to someone who you just met, but Morocco is a very different place, the people just aren't very threatening, and are very peaceful. Needless to say, we went with the guy.  We didn't go very far either, and actually went down he same side street once more. All of a sudden Mr. Jimal turns into this "side-tunnel". (Is that a word?) Really though, you know that phrase "hole in the wall"? This was "hole in the wall". You actually have to crouch down to get into there. 
+What next happened was, we met this other guy while asking directions to the ATM. His name was Mr. Jimal. We ended up seeing quite a bit of him while on our trip in Morrocco. ANYWAY... He took us down this **really** shady looking side street, (That I musta walked by at least two times, and didn't see.) and all of a sudden, we popped out in the main square! Well, right there was the ATM. Because we again forgot the exchange rate, my extremely tight-handed-on-the-money brother only withdrew 1000 dirham. (Roughly equal to 100 dollars.) To my surprise Mr. Jimal had waited for us during the money trasnaction, and then as he was leading us back to the souk, he said: 
 
-Well first thoughts: > "Boy! This place smells good!" To find out it was a herbosterie
+> "I would like to take you somewhere." 
+
+I mean,we could of ran for our lives, cuz, that is a very strange thing to say to someone who you just met, but Morocco is a very different place, the people just aren't very threatening, and are very peaceful. Needless to say, we went with the guy.  We didn't go very far either, and actually went down he same side street once more. All of a sudden Mr. Jimal turns into this "side-tunnel". (Is that a word?) Really though, you know that phrase "hole in the wall"? This was "hole in the wall". You actually have to crouch down to get into there. 
+
+Well first thoughts: 
+
+> "Boy! This place smells good!" 
+
+To find out it was a herbosterie which is where they mix herbs and make oils, and stuff... It looks very proffessional, with every one dressed up in white lab coats, white, floors, and white walls.  Mr. Jimal set us up with one guy, i guessed to show us around the store. Well, we ended up sitting down and him showing us, leting us sample, and telling us about al the Products they show at 
 
