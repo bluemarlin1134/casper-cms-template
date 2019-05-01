@@ -41,5 +41,13 @@ Well first thoughts:
 
 > "Boy! This place smells good!" 
 
-To find out it was a herbosterie which is where they mix herbs and make oils, and stuff... It looks very proffessional, with every one dressed up in white lab coats, white, floors, and white walls.  Mr. Jimal set us up with one guy, i guessed to show us around the store. Well, we ended up sitting down and him showing us, leting us sample, and telling us about al the Products they show at 
+To find out it was a herbosterie which is where they mix herbs and make oils, and stuff... It looks very proffessional, with every one dressed up in white lab coats, white, floors, and white walls.  Mr. Jimal set us up with one guy, i guessed to show us around the store. Well, we ended up sitting down and him showing us, leting us sample, and telling us about al the Products they show. So I admit, it was pretty good so we boueght some.
+
+When we got out of the store, it did take a while, we walked back out to the square to look around. As we were walking this guy comes up to us, and is like:
+
+> Would you like to take tour to Atlas mountain? Very good, you go with group! I will show you some pictures, come, it will only take a while. 
+
+That it did not.
+
+See part 3 [here](/post/africa3/)
 
