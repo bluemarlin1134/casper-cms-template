@@ -49,5 +49,5 @@ When we got out of the store, it did take a while, we walked back out to the squ
 
 That it did not.
 
-See part 3 [here](/post/africa3/)
+See part 3 [here](/post/africa3.md/)
 
