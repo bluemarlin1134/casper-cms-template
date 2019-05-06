@@ -30,3 +30,12 @@ The jewish quater is now a big market place, you can't really tell there were an
 
 We saw the palaces, but did not go inside either of them, because one the guide said was not as imprssive as the other, and the other was really expensive. We did go inside the courtyard of the Bahai Palace. There were some amazing looking oranges there, but He said that they are used only for marmalade because they are really bitter.
 
+As we were walking to the Caspbar, the fort, somehow we get on the subject of music. Well our tour guide really likes the blues, so he pulles out his phone, puts some on and starts singing. "Ooh yeah! I love that stuff!" He said. As we were leaving the Caspbar we get on the subject of burial. Did you know that all muslims are (or supposed to be) buried on their right side facing towards Mecca?
+They face Mecca because that is their holy site, but they get buried on their right side because that is how they sleep. The guide told us that if you sleep on your back you think too much, sleeping on your stomach is only for those who eat too much, and you should never sleep on your left side because that is where your heart is, and you don't want to put too much pressure on that! Meh... you know what? That did actually make sense... but I'm getting buried on my back.
+
+Well, after going to a few Riads trying to find the Riad Kech, we got back to our hotel. We thanked our guide, and went to our restaurant. It was really cool watching Mr. Naiima (I probably spelled that wrong) cook in thos traditional pots. Anyway, with the help of google translate and  handwaving, we paid for our food, and ate. It was really good.
+
+I'm not going to say how we slept that night, because I have more stuff to write so:
+
+##### Seeya!
+
