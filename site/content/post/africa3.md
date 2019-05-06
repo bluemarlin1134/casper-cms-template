@@ -26,5 +26,7 @@ We were all sufficeiently tired by now so we decided to head back to our hotel. 
 
 The tour guide explained all about the Berber people of Morocco, he actually is one, and so is Mr. Yousef and his cousin, and about the alphabet which is like really old... Our tour guid had a really funny accent. He sounded REALLY British. So when Mom asked us did he live in England at one tim, he told us he had never been out of Morocco, but he used to work with alot of British people and he picked up their accent. 
 
-The jewish quater
+The jewish quater is now a big market place, you can't really tell there were any Jews there at all. The tour guide said though that the Jews built balconies unlike the other people. Come to find out, there were balconies on the houses. They also built a gigantic wall that goes right around it. He said that the big commodity in that area was salt, and gold (of course) and thats what the Jews used to trade there. Sadly though he said, when the state of Israel ws created, most of them left, and went there. Only a few thousand Jews live in Morocco now.
+
+We saw the palaces, but did not go inside either of them, because one the guide said was not as imprssive as the other, and the other was really expensive. We did go inside the courtyard of the Bahai Palace. There were some amazing looking oranges there, but He said that they are used only for marmalade because they are really bitter.
 
