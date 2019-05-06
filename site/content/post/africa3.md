@@ -22,3 +22,9 @@ Well. There was a little moment of silence before someone said, "Let's try the A
 
 Well by the time we were done through all of that, out feet were sore, and it was already past 3 o'clock. But we had nothing to hurry to, except the bathroom, and we had, well only Mom got one, a cup of tea.
 
+We were all sufficeiently tired by now so we decided to head back to our hotel. But we were also sufficiently turned around as well, so we decided to ask directions at another hotel. Well... the manager comes up to us and starts asking us about where we are going, and calls one of his employees over. He says to us, why dont you try a walking tour? I have a fully liscensed tour guide, and he will take you around the city... Well the guy said he would only charge us 200 dirham (20 euros) and he would take us to the caspbar, the palaces and the jewish section. Well... we decided to try the card again, belive it or not, it worked! The guy was supposed to take us to our Riad, which is the name for basically a bread and breakfast, but we postponed that for the tour.
+
+The tour guide explained all about the Berber people of Morocco, he actually is one, and so is Mr. Yousef and his cousin, and about the alphabet which is like really old... Our tour guid had a really funny accent. He sounded REALLY British. So when Mom asked us did he live in England at one tim, he told us he had never been out of Morocco, but he used to work with alot of British people and he picked up their accent. 
+
+The jewish quater
+
