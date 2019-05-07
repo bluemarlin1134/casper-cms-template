@@ -1,3 +1,6 @@
+---
+title: Vocabulay workshop part 1
+---
 ### work on figuring our words without looking directly at dictionary... from vocabulary workshop
 
 |            | context           | structure                                                                                        | sound                                   | dictionary                                                           |
