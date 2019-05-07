@@ -1,3 +1,7 @@
+---
+title: Hebrew vocabulary
+---
+
 ### Full letter vowels
 
 * There are five full leter vowels in hebrew.
