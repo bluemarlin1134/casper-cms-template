@@ -69,3 +69,9 @@ canonifyurls = true
   weight = 14
   identifier = "clo"
   url = "https://chloe.lazarmarlin.tk"
+  
+ [[menu.main]]
+  name = "Archives"
+  weight = 2
+  identifier = "arck"
+  url = "https://lazarmarlin.netlify.com"
