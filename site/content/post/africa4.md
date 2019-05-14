@@ -19,4 +19,31 @@ He then was like, "Here, try it on!" You know one of those once you have it on y
 
 I bought it.
 
-Just around the corner agi
+Just around the corner agian, I saw this store with leather bags hanging up. By then I had figured out the the three *"W's"* Of buying a bag in Morocco.
+
+1. What is it made of?
+2. What is the price?
+3. What are you willing to take?
+
+I got stuck on step 2. This one bag I was looking at was 800 dirham. Way over my 200 dirham budget. There were 2 guys in the store, I guess they musta been father and son or something. Anyway, this is how it went:
+
+Me: How much is this?
+Young guy: 800 dirham! Would you like to try it on?
+Me: Oh no, I don't have that.
+Young guy: We can do 750!
+Mom: He only has 200.
+Me: Yeah... 
+Young guy: This one here is 300 dirham. *picks up a smaller bag*
+Me: No, that would be too small.
+Old guy: I can do 600.
+Mom: He only has 200.
+Old guy: Name your price!
+Young guy: Mamn I can give it to you for 400! That is the lowest I can go.
+Me: I only have 200!
+Old guy: Nme your price!
+Mom: No, I don't want to insult you!
+Young guy: Sorry, sorry madam, I can do 350!
+Old guy: He (refering to me) give me the money, and you give me the rest!
+Mom: No, I don't have any money!
+Young guy: 300 madam! 300!
+
