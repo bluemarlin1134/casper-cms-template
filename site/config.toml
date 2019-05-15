@@ -1,8 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "/ˈlaŋɡwɪdʒ/!!"
+title = "Books!!"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+#disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -10,8 +10,8 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "Language Homework."
-  cover = "images/cover.jpeg"
+  description = "Bible, book reports, summaries and more."
+  cover = "images/cover.jpg"
   author = "Eleazar Allen "
   authorlocation = "Freeport Grand Bahama"
   authorwebsite = "https://lazarmarlin.gq"
