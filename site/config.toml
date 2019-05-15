@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "Bible, book reports, summaries and more."
-  cover = "images/cover.jpg"
+  cover = "images/cover.jpeg"
   author = "Eleazar Allen "
   authorlocation = "Freeport Grand Bahama"
   authorwebsite = "https://lazarmarlin.gq"
