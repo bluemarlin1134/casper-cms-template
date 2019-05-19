@@ -1,1 +1,10 @@
 Our flight to Rome was a funny one! When we first boarded our seats were all over the plane, Mom was three rows behind me, and I was sitting a row behind Moshe. Thankfully the plane wasn't exactly full when we took off so naturally people decided to move closer together. I was sitting between a lady and her friend, her friend was sitting next to me, and She was stting next to Moshe. She asked me if I would like to switch seat seats, and of course I said yes. Next was this old Arab guy, who couldn't figure out whose seat was his, and thought I was sitting in it. Meanwhile Mom was doing some "high speed trading" and somehow by the middle of the flight ended up sitting behind me. It wasn't just us that was moving but mostly everyone was out of place. Someone even remarked that the whole plane was playing musical chairs! Other then bumping into a very annoyed guy, nothing extraordinary happened while debarking the plane and going through customs. 
+
+We caught the bus from the terminal to the main bus center called Termini. Dad wanted to take us to the Colloseum but it was kinda dark and we had to get up early in the morning. Because it was raining though I can not say our walk to the hotel was enjoyable. We were going to take a cab, but everyone wanted to charge an extreme amount of money to just go down the road and around the corner (where our hotel was), so we walked. Needless to say the tiring walk with a little bit of jetlag mixed in was the perfect recipe for a good nights rest.
+
+6:00 am greeted us a little too soon for my liking. Dad said:
+
+> We'll wake up reallly early this morning, see the Colloseum, then we would walk back to the Hotel, get something to eat, then walk to the bus.
+
+It **didn't** happen that way... Since the hotel we were in wasn't that far away, the immense size  of the Colloseum popped up really fast. They don't tell you this, but when you see the colloseum, there is an entire compley there with temples, arches, and pools. I was so surprised! Dad heard the Arch of Titus was x
+
