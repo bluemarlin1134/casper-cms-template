@@ -6,5 +6,34 @@ We caught the bus from the terminal to the main bus center called Termini. Dad w
 
 > We'll wake up reallly early this morning, see the Colloseum, then we would walk back to the Hotel, get something to eat, then walk to the bus.
 
-It **didn't** happen that way... Since the hotel we were in wasn't that far away, the immense size  of the Colloseum popped up really fast. They don't tell you this, but when you see the colloseum, there is an entire compley there with temples, arches, and pools. I was so surprised! Dad heard the Arch of Titus was x
+It **didn't** happen that way... 
 
+Since the hotel we were in wasn't that far away, the immense size  of the Colloseum popped up really fast. They don't tell you this, but when you see the colloseum, there is an entire complex there with temples, arches, and pools. I was so surprised! Dad heard the Arch of Titus was really close as well so we went down the road some more...  the arch was in a compound where they were still excavating, but they allowed tours, it was too early though and we didn't have enough time to wait, so Dad decided to go see the fountains. 
+
+It's kinda funny when asking to find a bus in certain countries. You can ask one person take for example:
+
+you: "Hi, do you speak english?"
+
+they: "Yes a little."
+
+you: "Good! Which bus do I catch to go to the fountains?"
+
+they: "The 822."
+
+So you go to catch the 822, and you see it on a big red sign that says "822". Just to be sure you ask someone else.
+
+you: "Is this the 822 bus stop?"
+
+they: "Oh yes."
+
+You wait around maybe ten minutes and when the bus arrives you ask the driver which stop you get off at. He then tells you:
+
+bus drver: "You have to go to the other side."
+
+If it is not across the road, you have to find someone who knows english, then you have to walk there, (the worst part), then wait around even more!
+
+We were already pressed for time, and the same situtaion I am descibing is what happened. 
+
+Finally we got to the fountains, after losing some time getting off at the wrong bus stop, and they were really quite nice! But... I don't think you need to have to go to Rome for it.
+
+Now we were **REALLY** in trouble for time because we only had less than an hour to run back to the hotel, get our bags, go to the bus station, taking the train to the other bus station, (which we didn't know where it was) and then we had to get our tickets out... We were running out of time!
