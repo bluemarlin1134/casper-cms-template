@@ -37,3 +37,9 @@ We were already pressed for time, and the same situtaion I am descibing is what 
 Finally we got to the fountains, after losing some time getting off at the wrong bus stop, and they were really quite nice! But... I don't think you need to have to go to Rome for it.
 
 Now we were **REALLY** in trouble for time because we only had less than an hour to run back to the hotel, get our bags, go to the bus station, taking the train to the other bus station, (which we didn't know where it was) and then we had to get our tickets out... We were running out of time!
+
+I literally ran back to the hotel, we grabbed our bags, grabbed a few packaged pastries, said bye to the manager, and dashed out the door. Now all we had to do was find the hotel. We only had about half an hour now to catch a bus from a stop we didn't know where it was. So we dashed into the metro, and got off where the directions told us to. Franticly with only ten minutes left on the clock wwe dashed from underground and--! 
+
+> Where's the bus!?
+
+So we started asking directions. I asked a buisness man walking down the street, Dad was heading down the road trying to find someone, because the last person we asked didn't speak english, Mom was busy asking people as well. Finally someone gave us some directions to catch our bus 
