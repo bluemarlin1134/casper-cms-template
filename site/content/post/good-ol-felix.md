@@ -1,4 +1,6 @@
-
+---
+title: Outline of Felix Mendelssohn (Unfinished)
+---
 ## Felix Medelssohn
 - born 1804
 - was a contemporary with Chopin
