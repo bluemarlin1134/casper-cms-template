@@ -1,1 +1,75 @@
-<html><head>Primary sources</span></p><ul class="c1 lst-kix_iy5d5ce6djuz-0 start"><li class="c3"><span class="c0">original sources that inform you directly, not through another person&#39;s explanation or interpretation.</span></li><li class="c3"><span class="c0">use as much primary information as possible</span></li><li class="c3"><span class="c0">primary sources include</span></li></ul><ul class="c1 lst-kix_iy5d5ce6djuz-1 start"><li class="c2"><span class="c0">diaries</span></li><li class="c2"><span class="c0">journals</span></li><li class="c2"><span class="c0">letters</span></li><li class="c2"><span class="c0">presentations</span></li><li class="c2"><span class="c0">interveiws</span></li><li class="c2"><span class="c0">surveys and questionaires</span></li><li class="c2"><span class="c0">observation &amp; particpation</span></li></ul><p class="c4 c5"><span class="c0"></span></p><p class="c4 c5"><span class="c0"></span></p><p class="c6"><span class="c0">Secondary sources</span></p><ul class="c1 lst-kix_w7dwkhq715qv-0 start"><li class="c3"><span class="c0">third person accounts found in research done by other people </span></li><li class="c3"><span class="c0">much of the news media is secondary</span></li></ul><ul class="c1 lst-kix_w7dwkhq715qv-1 start"><li class="c2"><span class="c0">filtered</span></li></ul><p class="c4"><span class="c0"></span></p><p class="c6"><span class="c0">Setup</span></p><ul class="c1 lst-kix_ykc1py7xkjmt-0 start"><li class="c3"><span class="c0">the entire report must be double spaced</span></li><li class="c3"><span class="c0">put your headings on every section of your report</span></li><li class="c3"><span class="c0">also put page numbers have dates</span></li><li class="c3"><span class="c0">have quotes</span></li><li class="c3"><span class="c0">the closing summarizes the main points &amp;rightarrow; leave the reader with a final thought</span></li><li class="c3"><span class="c0">Bibliography</span></li></ul><ul class="c1 lst-kix_ykc1py7xkjmt-1 start"><li class="c2"><span class="c0">alphabetical order</span></li><li class="c2"><span class="c0">additional lines are indented</span></li></ul><p class="c4"><span class="c0"></span></p><p class="c6"><span class="c0">Prewriting</span></p><ul class="c1 lst-kix_s5tvbgebyc8n-0 start"><li class="c3"><span class="c0">always have an interesting topic </span></li><li class="c3"><span class="c0">of course (who, what, where, when, why, how)</span></li><li class="c3"><span class="c0">size up your topic</span></li></ul><ul class="c1 lst-kix_s5tvbgebyc8n-1 start"><li class="c2"><span class="c0">are there enough resources to write a research report?</span></li></ul><ul class="c1 lst-kix_s5tvbgebyc8n-0"><li class="c3"><span class="c0">create note cards, grid organization, mindmapping</span></li></ul><p class="c4 c5"><span class="c0"></span></p><p class="c6"><span class="c0">Plagiarism</span></p><ul class="c1 lst-kix_upr4cqjmeb92-0 start"><li class="c3"><span class="c0">paraphrase</span></li></ul><ul class="c1 lst-kix_upr4cqjmeb92-1 start"><li class="c2"><span class="c0">put ideas you find into your own words so that your paper sounds like you -- then give credit to the source of the ideas</span></li></ul><ul class="c1 lst-kix_upr4cqjmeb92-0"><li class="c3"><span class="c0">quote</span></li></ul><ul class="c1 lst-kix_upr4cqjmeb92-1 start"><li class="c2"><span class="c0">use exact words of a source to add authority to your paper</span></li><li class="c2"><span class="c0">enclose the words in quotation marks and give credit to the source</span></li></ul><p class="c4"><span class="c0"></span></p><p class="c6"><span class="c0">Keeping track of your sources</span></p><ul class="c1 lst-kix_uizyujsgnp0e-0 start"><li class="c3"><span class="c0">Books</span></li></ul><ul class="c1 lst-kix_uizyujsgnp0e-1 start"><li class="c2"><span class="c0">Authors name. Title. Publisher and city. Copyright date.</span></li></ul><ul class="c1 lst-kix_uizyujsgnp0e-0"><li class="c3"><span class="c0">Magazine</span></li></ul><ul class="c1 lst-kix_uizyujsgnp0e-1 start"><li class="c2"><span class="c0">Authors name. Article title. Newspaper title. City. Date published. Section. Page numbers.</span></li></ul><ul class="c1 lst-kix_uizyujsgnp0e-0"><li class="c3"><span class="c0">Newspaper</span></li></ul><ul class="c1 lst-kix_uizyujsgnp0e-1 start"><li class="c2"><span class="c0">Authors name. Article title. Newspaper title. City. Date published. Section. Page number.</span></li></ul><ul class="c1 lst-kix_uizyujsgnp0e-0"><li class="c3"><span class="c0">Internet</span></li></ul><ul class="c1 lst-kix_uizyujsgnp0e-1 start"><li class="c2"><span class="c0">Authors name. Page title. Site title. Date posted. Copyright date. Site sponsor. Date visited. Page address.</span></li></ul><ul class="c1 lst-kix_uizyujsgnp0e-0"><li class="c3"><span class="c0">Video Cassette or DVD</span></li></ul><ul class="c1 lst-kix_uizyujsgnp0e-1 start"><li class="c2"><span class="c0">Title. Distributor. Release date. Medium blog.</span></li></ul></body></html>
+Primary sources
+
+*   original sources that inform you directly, not through another person's explanation or interpretation.
+*   use as much primary information as possible
+*   primary sources include
+
+*   diaries
+*   journals
+*   letters
+*   presentations
+*   interveiws
+*   surveys and questionaires
+*   observation & particpation
+
+Secondary sources
+
+*   third person accounts found in research done by other people
+*   much of the news media is secondary
+
+*   filtered
+
+Setup
+
+*   the entire report must be double spaced
+*   put your headings on every section of your report
+*   also put page numbers have dates
+*   have quotes
+*   the closing summarizes the main points &rightarrow; leave the reader with a final thought
+*   Bibliography
+
+*   alphabetical order
+*   additional lines are indented
+
+Prewriting
+
+*   always have an interesting topic
+*   of course (who, what, where, when, why, how)
+*   size up your topic
+
+*   are there enough resources to write a research report?
+
+*   create note cards, grid organization, mindmapping
+
+Plagiarism
+
+*   paraphrase
+
+*   put ideas you find into your own words so that your paper sounds like you -- then give credit to the source of the ideas
+
+*   quote
+
+*   use exact words of a source to add authority to your paper
+*   enclose the words in quotation marks and give credit to the source
+
+Keeping track of your sources
+
+*   Books
+
+*   Authors name. Title. Publisher and city. Copyright date.
+
+*   Magazine
+
+*   Authors name. Article title. Newspaper title. City. Date published. Section. Page numbers.
+
+*   Newspaper
+
+*   Authors name. Article title. Newspaper title. City. Date published. Section. Page number.
+
+*   Internet
+
+*   Authors name. Page title. Site title. Date posted. Copyright date. Site sponsor. Date visited. Page address.
+
+*   Video Cassette or DVD
+
+*   Title. Distributor. Release date. Medium blog.
