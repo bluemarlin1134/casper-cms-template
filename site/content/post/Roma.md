@@ -32,7 +32,7 @@ bus drver: "You have to go to the other side."
 
 If it is not across the road, you have to find someone who knows english, then you have to walk there, (the worst part), then wait around even more!
 
-We were already pressed for time, and the same situtaion I am descibing is what happened. 
+This is exactly the situattion that we wer in. 
 
 Finally we got to the fountains, after losing some time getting off at the wrong bus stop, and they were really quite nice! But... I don't think you need to have to go to Rome for it.
 
@@ -42,4 +42,8 @@ I literally ran back to the hotel, we grabbed our bags, grabbed a few packaged p
 
 > Where's the bus!?
 
-So we started asking directions. I asked a buisness man walking down the street, Dad was heading down the road trying to find someone, because the last person we asked didn't speak english, Mom was busy asking people as well. Finally someone gave us some directions to catch our bus 
+So we started asking directions. I asked a buisness man walking down the street, Dad was heading down the road trying to find someone, because the last person we asked didn't speak english, Mom was busy asking people as well. Finally someone gave us some directions to catch our bus. I dashed off in the direction that he pointed. While running I was trying to bring up our tickets. I stopped to ask another person questions, he pointed me in the right direction, I turned a corner, and  *lo and behold* there was our bus! The bus driver thankfully had o problem in bringing up our tickets, and we boarded the bus. That was one of closest calls I have ever had while travelling! We had got to the bus with only a miunute to spare! 
+
+By now you're probably wondering where our bus was going, and why we were in such a rush to catch it. We were going to Venice! And the other reason is because it is a *REALLY* long ride there, and we didn't wanna wind up there in the night, which would of happened if we had of waited for the next bus. That's all for now.
+
+##### Seeya!
